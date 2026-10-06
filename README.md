@@ -108,3 +108,6 @@ Uploaded in Scrennshots folder of repository.
 - MITRE ATT&CK framework mapping
 - Incident documentation and reporting
 
+
+Author :
+  Manas Ranjan Sarangi
